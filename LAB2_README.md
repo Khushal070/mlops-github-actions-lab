@@ -41,14 +41,14 @@ Both successful runs gave the same scores, because the split and model seed are 
 ## Screenshots
 
 Successful runs:
-![green runs](Labs/Github_Labs/Lab2/screenshots/Success.png)
+![green runs](Labs/Github_Labs/Lab2/Screenshots/Success.png)
 
 `history.json` after two runs:
-![history](Labs/Github_Labs/Lab2/screenshots/History.png)
+![history](Labs/Github_Labs/Lab2/Screenshots/History.png)
 
 Quality gate demo. I set the threshold to 0.99 and the run failed:
-![gate failed run](Labs/Github_Labs/Lab2/screenshots/Failure.png)
-![gate failed log](Labs/Github_Labs/Lab2/screenshots/Failure_Explanation.png)
+![gate failed run](Labs/Github_Labs/Lab2/Screenshots/Failure.png)
+![gate failed log](Labs/Github_Labs/Lab2/Screenshots/Failure_Explanation.png)
 
 I then set the threshold back to 0.90 and the next run passed.
 

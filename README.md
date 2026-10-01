@@ -2,6 +2,8 @@
 
 # DADS 7305 - MLOps
 
+> **Lab 2 submission:** see [LAB2_README.md](LAB2_README.md) for my modifications.
+
 ## Overview
 
 Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for the MLOps (Machine Learning Operations) course at Northeastern University. The primary goal of this repository is to provide a centralized platform for students, instructors, and anyone interested in MLOps to access and collaborate on course-related materials. You can learn more on Machine learning topics by watching my videos on [Youtube](https://www.youtube.com/channel/UCCGbsdfmgmhMLs-tjOtOp0Q) or visit my [Website](https://www.mlwithramin.com/). 
