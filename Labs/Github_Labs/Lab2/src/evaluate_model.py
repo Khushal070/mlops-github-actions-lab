@@ -4,7 +4,7 @@ from sklearn.datasets import load_breast_cancer
 from sklearn.metrics import f1_score, precision_score, recall_score, roc_auc_score
 from sklearn.model_selection import train_test_split
 
-F1_THRESHOLD = 0.99
+F1_THRESHOLD = 0.90
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
