@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "20261001141009",
+        "model": "GradientBoostingClassifier",
+        "F1_Score": 0.9659863945578231,
+        "Precision": 0.9466666666666667,
+        "Recall": 0.9861111111111112,
+        "ROC_AUC": 0.9907407407407407
+    }
+]
